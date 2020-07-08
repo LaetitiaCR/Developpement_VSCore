@@ -1,0 +1,13 @@
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\obj\Debug\netcoreapp3.1\CompteBancaire.AssemblyInfoInputs.cache
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\obj\Debug\netcoreapp3.1\CompteBancaire.AssemblyInfo.cs
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\obj\Debug\netcoreapp3.1\CompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\obj\Debug\netcoreapp3.1\CompteBancaire.csprojAssemblyReference.cache
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\bin\Debug\netcoreapp3.1\CompteBancaire.exe
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\bin\Debug\netcoreapp3.1\CompteBancaire.deps.json
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\bin\Debug\netcoreapp3.1\CompteBancaire.runtimeconfig.json
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\bin\Debug\netcoreapp3.1\CompteBancaire.runtimeconfig.dev.json
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\bin\Debug\netcoreapp3.1\CompteBancaire.dll
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\bin\Debug\netcoreapp3.1\CompteBancaire.pdb
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\obj\Debug\netcoreapp3.1\CompteBancaire.dll
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\obj\Debug\netcoreapp3.1\CompteBancaire.pdb
+C:\Users\laeti\Documents\informatique_crm_mulhouse\qualifiante_CDA\Developpement_VSCore\CompteBancaire\CompteBancaire\obj\Debug\netcoreapp3.1\CompteBancaire.genruntimeconfig.cache
